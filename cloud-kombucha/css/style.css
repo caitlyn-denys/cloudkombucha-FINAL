@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Raleway");
+
+@import url("components/container.css");
+@import url("components/images.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: rgb(45, 45, 45);
+	letter-spacing: 2px;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #505BDA; 
+	letter-spacing: 3px;
+	font-size: 30px
+	font-weight: 200;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(45, 45, 45);
+	font-size: 25px;
+}
+
+body {
+	background-color: rgb(230, 230, 230);
+	color: rgb(30, 30, 30);
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+}

@@ -1,0 +1,11 @@
+#cloud {
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+}
+
+#terroir, #upcycle, #kombucha, #milk {
+	border-radius: 5%;
+	width: 500px;
+	height: 400px;
+}
